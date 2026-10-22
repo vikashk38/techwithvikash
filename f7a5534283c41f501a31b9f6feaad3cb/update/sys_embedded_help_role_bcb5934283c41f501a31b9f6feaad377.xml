@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2090108_techwi_0.end_user" name="x_2090108_techwi_0.end_user">24b5934283c41f501a31b9f6feaad328</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 06:04:57</sys_created_on>
+        <sys_id>bcb5934283c41f501a31b9f6feaad377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>24b5934283c41f501a31b9f6feaad328</sys_name>
+        <sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bcb5934283c41f501a31b9f6feaad377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 06:04:57</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
