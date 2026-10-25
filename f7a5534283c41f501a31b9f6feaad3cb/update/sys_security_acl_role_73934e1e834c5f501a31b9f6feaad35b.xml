@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 18:44:50</sys_created_on>
+        <sys_id>73934e1e834c5f501a31b9f6feaad35b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2090108_techwi_0_ai_devic.x_2090108_techwi_0.device_managemnt</sys_name>
+        <sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope>
+        <sys_security_acl display_value="x_2090108_techwi_0_ai_devic">a3934e1e834c5f501a31b9f6feaad353</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_73934e1e834c5f501a31b9f6feaad35b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 18:44:50</sys_updated_on>
+        <sys_user_role display_value="x_2090108_techwi_0.device_managemnt" name="x_2090108_techwi_0.device_managemnt">e5b5d34283c41f501a31b9f6feaad30d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

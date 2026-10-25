@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="f9270366830813901a31b9f6feaad33f" sys_domain="global" table="x_2090108_techwi_0_ai_devic" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 18:18:22</sys_created_on>
+            <sys_id>3d270366830813901a31b9f6feaad362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_2090108_techwi_0_ai_devic" sys_domain="global" view="Default view">f9270366830813901a31b9f6feaad33f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 18:18:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_2090108_techwi_0_ai_devic</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 18:18:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9270366830813901a31b9f6feaad33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2090108_techwi_0_ai_devic</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope>
+            <sys_update_name>sys_ui_section_f9270366830813901a31b9f6feaad33f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 18:18:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</application>
+        <file_path/>
+        <instance_id>956ba8711b52bddc39a54089bd4bcbf9</instance_id>
+        <instance_name>dev204084</instance_name>
+        <name>sys_ui_section_f9270366830813901a31b9f6feaad33f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="f9270366830813901a31b9f6feaad33f" sys_domain="global" table="x_2090108_techwi_0_ai_devic" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-23 18:18:22</sys_created_on><sys_id>3d270366830813901a31b9f6feaad362</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_2090108_techwi_0_ai_devic" sys_domain="global" view="Default view">f9270366830813901a31b9f6feaad33f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-23 18:18:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_2090108_techwi_0_ai_devic</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-23 18:18:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f9270366830813901a31b9f6feaad33f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2090108_techwi_0_ai_devic</sys_name><sys_overrides/><sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package><sys_policy/><sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope><sys_update_name>sys_ui_section_f9270366830813901a31b9f6feaad33f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-23 18:18:22</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1188613307</payload_hash>
+        <record_name>AI Devices</record_name>
+        <reverted_from/>
+        <source>bed1421e830c5f501a31b9f6feaad32c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-23 18:18:22</sys_created_on>
+        <sys_id>f1270366830813901a31b9f6feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a169fc45480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-23 18:18:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b5270366440813900d9849363c3b8565</update_guid>
+        <update_guid_history>b5270366440813900d9849363c3b8565:1188613307</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-23 18:19:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>274fe16a55ca494d8c8810bd8f552251</sys_id>
+        <sys_metadata>f9270366830813901a31b9f6feaad33f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package>
+        <sys_parent display_value="AI Devices">3a830a1e834c5f501a31b9f6feaad333</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope>
+        <sys_scope_delete display_value="">1f49767cf471477ea734b59dc629f944</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f9270366830813901a31b9f6feaad33f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f9270366830813901a31b9f6feaad33f">f1270366830813901a31b9f6feaad366</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-23 18:19:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
