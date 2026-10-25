@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Order Ai Devices">4424bd5783c053101a31b9f6feaad3aa</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-25 20:13:30</sys_created_on>
+        <sys_id>bba471d783c053101a31b9f6feaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Order Ai Devices</sys_name>
+        <sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_bba471d783c053101a31b9f6feaad365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-25 20:13:30</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
