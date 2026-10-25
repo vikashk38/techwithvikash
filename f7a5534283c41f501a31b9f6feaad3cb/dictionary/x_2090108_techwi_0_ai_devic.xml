@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3a830a1e834c5f501a31b9f6feaad333" extends="cmdb_ci" label="AI Devices" max_length="40" name="x_2090108_techwi_0_ai_devic" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Device Category" max_length="40" name="device_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Environmental Safty" sequence="3" value="Environmental Safty"/>
+                <element inactive_on_update="false" label="AR Glasses" sequence="1" value="AR Glasses"/>
+                <element inactive_on_update="false" label="Safty Drones" sequence="0" value="Safty Drones"/>
+                <element inactive_on_update="false" label="Smart Hats" sequence="2" value="Smarts"/>
+            </choice>
+        </element>
+        <element label="Price" mandatory="true" max_length="20" name="price" type="price"/>
+    </element>
+</database>

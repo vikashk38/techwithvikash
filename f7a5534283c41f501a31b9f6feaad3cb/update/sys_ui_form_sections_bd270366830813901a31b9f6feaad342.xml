@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bd270366830813901a31b9f6feaad342" sys_domain="global" table="x_2090108_techwi_0_ai_devic" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 18:18:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd270366830813901a31b9f6feaad354</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2090108_techwi_0_ai_devic" name="x_2090108_techwi_0_ai_devic" sys_domain="global" view="Default view">bd270366830813901a31b9f6feaad342</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_2090108_techwi_0_ai_devic" sys_domain="global" view="Default view">709386de83c85f501a31b9f6feaad347</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 18:18:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 18:18:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75270366830813901a31b9f6feaad35d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2090108_techwi_0_ai_devic" name="x_2090108_techwi_0_ai_devic" sys_domain="global" view="Default view">bd270366830813901a31b9f6feaad342</sys_ui_form>
+            <sys_ui_section caption="Price And Warranty" display_value="Price And Warranty" name="x_2090108_techwi_0_ai_devic" sys_domain="global" view="Default view">75270366830813901a31b9f6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 18:19:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2090108_techwi_0_ai_devic</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 18:18:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd270366830813901a31b9f6feaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2090108_techwi_0_ai_devic</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TechWithVikash" source="x_2090108_techwi_0">f7a5534283c41f501a31b9f6feaad3cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TechWithVikash">f7a5534283c41f501a31b9f6feaad3cb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bd270366830813901a31b9f6feaad342</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 18:18:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
